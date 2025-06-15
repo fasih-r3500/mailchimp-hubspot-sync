@@ -5,18 +5,26 @@ This script automates the syncing of email campaign performance data from Mailch
 # Setup
 
 1. Clone the project and create a `.env` file:
-    .env:
-    MAILCHIMP_API_KEY=your-mailchimp-api-key
-    MAILCHIMP_SERVER_PREFIX=usX
-    HUBSPOT_ACCESS_TOKEN=your-hubspot-access-token
+   
+        .env:
+       
+        MAILCHIMP_API_KEY=mailchimp-api-key
+       
+        MAILCHIMP_SERVER_PREFIX=usX
+       
+        HUBSPOT_ACCESS_TOKEN=hubspot-access-token
 
 2. Create a virtual environment:
-    python3 -m venv venv
-    source venv/bin/activate
-    pip install -r requirements.txt
+   
+        python3 -m venv venv
+       
+        source venv/bin/activate
+       
+        pip install -r requirements.txt
 
 3. Run the script:
-    python sync.py
+
+       python sync.py
 
 # Features
 
