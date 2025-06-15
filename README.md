@@ -66,8 +66,8 @@ Sample Output:
       - Click Rate: 7.1%
     Pushed 'Summer Promo' to HubSpot: 201
 
-A sample contact was created in HubSpot to simulate synced campaign data from Mailchimp.
+I created a sample contact in HubSpot with custom contact properties to simulate synced campaign data from Mailchimp.
 
-This shows how marketing metrics like **email volume, open rate, click rate, and send time** would appear once synced via the script.
+This shows how marketing metrics like **emails sent, open rate, click rate, and send time** would appear once synced via the script.
 
 ![Alt text](<Screenshot 2025-06-16 at 02-54-06 Demo Campaign.png>)
