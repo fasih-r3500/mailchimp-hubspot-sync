@@ -1,4 +1,4 @@
-# Mailchimp → HubSpot Campaign Sync
+# Mailchimp → HubSpot Campaign Automated Synchronisation
 
 This script automates the syncing of email campaign performance data from Mailchimp to HubSpot CRM using their APIs. It enables better client reporting, lead segmentation, and marketing automation.
 
