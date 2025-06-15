@@ -70,7 +70,7 @@ I created a sample contact in HubSpot with custom contact properties to simulate
 
 This shows how marketing metrics like **emails sent, open rate, click rate, and send time** would appear once synced via the script.
 
-![Alt text](<Screenshot 2025-06-16 at 02-54-06 Demo Campaign.png>)
+![Screenshot 2025-06-16 at 03-34-53 Summer Promo](https://github.com/user-attachments/assets/6c508564-b509-48f6-ac6f-d11be9446375)
 
 This is the sample JSON payload the script would send to the Hubspot API:
    
