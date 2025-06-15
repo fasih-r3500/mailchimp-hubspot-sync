@@ -28,11 +28,15 @@ This script automates the syncing of email campaign performance data from Mailch
 
 # Features
 
-    Fetches latest campaign data from Mailchimp
+- Fetches campaign performance data from Mailchimp — including emails sent, open rates, click-through rates, and send time.
 
-    Extracts open/click rates and sends stats
+- Syncs structured performance data into HubSpot CRM as custom contact properties for centralized visibility.
 
-    Pushes structured data into HubSpot CRM
+- Automates reporting workflows, reducing manual tracking and ensuring your CRM reflects the latest campaign engagement.
+
+By syncing key engagement metrics into HubSpot, marketing teams can segment leads more effectively, prioritize high-engagement contacts, and improve campaign follow-up — leading to smarter targeting and higher conversion rates.
+
+
 
 # API Notes
 
